@@ -1,0 +1,5 @@
+Credentials cache: API:D123F869-881C-42B2-995A-9A55DABB9646
+        Principal: yabecret@42.FR
+
+  Issued                Expires               Principal
+Jul 30 11:18:01 2018  Aug  6 11:18:01 2018  krbtgt/42.FR@42.FR
